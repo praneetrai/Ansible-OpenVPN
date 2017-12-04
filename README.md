@@ -3,7 +3,7 @@
 Step 1 - Clone project 
 
 <pre>
-# git clone https://github.com/vandocouto/Ansible-OpenVPN.git
+# git clone https://github.com/praneetrai/Ansible-OpenVPN.git
 </pre>
 
 Step 2 - Set as variables
